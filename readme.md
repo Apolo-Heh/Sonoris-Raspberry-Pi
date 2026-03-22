@@ -58,7 +58,7 @@ Também é possível customizar as legendas do dispositivo, ajustando fonte, tam
 
 ```sh
 # clone o repositório
-git clone https://github.com/Chrb09/Sonoris-Raspberry-Pi.git
+git clone https://github.com/Apolo-Heh/Sonoris-Raspberry-Pi.git
 
 # acesse o diretório
 cd Sonoris-RaspberryPi

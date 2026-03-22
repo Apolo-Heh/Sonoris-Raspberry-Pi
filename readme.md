@@ -111,7 +111,7 @@ python main.py
     </td>
     </td>
     <td align="center">
-      <a href="https://github.com/Chrb09">
+      <a href="https://github.com/Apolo-Heh">
         <img src="https://avatars.githubusercontent.com/u/132484542?v=4" width="100px;" alt="Carlos - Github"/><br>
         <sub>
             <b>Carlos</b>
